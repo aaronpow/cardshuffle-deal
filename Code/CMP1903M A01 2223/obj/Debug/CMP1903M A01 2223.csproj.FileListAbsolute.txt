@@ -1,0 +1,3 @@
+C:\Users\chach\Documents\University\oop\assesmentonegit\cardshuffle-deal\Code\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.AssemblyReference.cache
+C:\Users\chach\Documents\University\oop\assesmentonegit\cardshuffle-deal\Code\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.SuggestedBindingRedirects.cache
+C:\Users\chach\Documents\University\oop\assesmentonegit\cardshuffle-deal\Code\CMP1903M A01 2223\obj\Debug\CMP1903M A01 2223.csproj.CoreCompileInputs.cache
